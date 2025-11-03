@@ -1,5 +1,8 @@
 # Implementation of Filters
 
+## EXPERIMENT NO : 05
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## Aim
 To implement filters for **smoothing** and **sharpening** images in the **spatial domain** using Python and OpenCV.
 
